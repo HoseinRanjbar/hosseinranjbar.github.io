@@ -1,6 +1,6 @@
-# Hossein Ranjbar — academic website
+# Hossein Ranjbar
 
-A lightweight personal academic website, ready for GitHub Pages. Built with HTML, CSS, and JavaScript; no installation, build step, or paid service is required.
+A lightweight personal website, ready for GitHub Pages. Built with HTML, CSS, and JavaScript; no installation, build step, or paid service is required.
 
 ## Publish on GitHub Pages
 
